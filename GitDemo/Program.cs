@@ -14,8 +14,6 @@ namespace GitDemo
 
             var p = new Person();
             var p2 = new Person();
-
-            //Comments
         }
     }
 }
