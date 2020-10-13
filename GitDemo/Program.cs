@@ -12,6 +12,7 @@ namespace GitDemo
             Console.WriteLine("Hello World!");
 
             var p = new Person();
+            var p2 = new Person();
         }
     }
 }
